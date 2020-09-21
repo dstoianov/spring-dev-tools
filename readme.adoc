@@ -1,0 +1,17 @@
+= Spring Dev tools example and more
+:icons: font
+:sectnums:
+:sectnumlevels: 5
+:toc: left
+:toclevels: 4
+:toc-title: Table of Contents
+
+== Requirements
+
+. Git
+. Java JDK 11
+. Apache Maven (optional, possible to use maven which installed in the OS)
+
+== How to use
+
+

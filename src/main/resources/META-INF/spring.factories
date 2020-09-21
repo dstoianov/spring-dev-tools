@@ -1,0 +1,5 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  se.techinsight.config.DevProfileResolverEnvironmentPostProcessor
+org.springframework.context.ApplicationContextInitializer=\
+ se.techinsight.config.ProfileStopperApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=se.techinsight.config.Conf
