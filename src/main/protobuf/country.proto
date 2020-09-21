@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package se.techinsight.proto.messaging;
+
+option java_package = "se.techinsight.proto.messaging";
+option java_multiple_files = true;
+
+message Country {
+  string code = 1;
+  string name = 2;
+}
