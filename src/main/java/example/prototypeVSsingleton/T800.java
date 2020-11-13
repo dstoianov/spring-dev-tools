@@ -12,11 +12,11 @@ public class T800 {
 
     @PostConstruct
     public void init() {
-        System.out.println("PostConstruct prototype " + "Give me your clothes");
+        System.out.println("PostConstruct prototype - Give me your clothes");
     }
 
     @PreDestroy
     public void destroy() {
-        System.out.println("PreDestroy prototype " + "Astalavista baby");
+        System.out.println("PreDestroy prototype - Hasta la vista, baby");
     }
 }

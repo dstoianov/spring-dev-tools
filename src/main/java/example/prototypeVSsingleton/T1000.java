@@ -16,12 +16,12 @@ public class T1000 {
 
     @PostConstruct
     public void init() {
-        System.out.println("PostConstruct singleton " + "Where is John Connor");
+        System.out.println("PostConstruct singleton - Where is John Connor");
     }
 
     @PreDestroy
     public void destroy() {
-        System.out.println("PreDestroy singleton " + "Страшные звуки");
+        System.out.println("PreDestroy singleton - Scary sounds");
     }
 
 }
