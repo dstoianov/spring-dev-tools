@@ -1,0 +1,7 @@
+prod:
+  mails: aa@c.com, aas@sss.com
+  notification: false
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:simple-service
